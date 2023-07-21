@@ -6,9 +6,11 @@ export const MODAL_CLOSE_SEC = 2.5;
 // git init
 // git add -A
 // git commit -m 'Initial commit'
-// git reset --hard HEAD
-// git log
-// git reset --hard id...
+//// git reset --hard HEAD
+//// git log
+//// git reset --hard id...
 // git branch
 // git branch new-feature
 // git checkout new-feature
+// git merge new-feature
+// git status
